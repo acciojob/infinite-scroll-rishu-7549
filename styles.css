@@ -6,8 +6,11 @@
   margin: 30px;
   padding: 20px;
   border: 10px solid black;
+	
 }
 li {
+	display:flex;
+	flex-direction:column;
   padding: 10px;
   list-style-type: none;
 }
